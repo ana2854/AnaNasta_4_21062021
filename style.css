@@ -558,6 +558,7 @@ a[data-lightbox]:hover img {
     opacity: 0.6;
     -webkit-animation-fill-mode: none;
     animation-fill-mode: none;
+   
 }
 
 #lightbox-modal {
