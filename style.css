@@ -682,7 +682,8 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    width: auto;
+    height: auto;
     margin: auto auto auto auto;
 }
 
@@ -742,11 +743,15 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: auto;
+    height: auto;
 }
 
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
+    width: auto;
+    height: auto;
 }
 
 .avatar {
@@ -847,6 +852,9 @@ h4 {
     .nav-center.navbar .nav {
         max-width: 100%
     }
+
+
+
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
@@ -887,6 +895,10 @@ h4 {
         padding: 0 20px;
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
+    }
+
+    .img-responsive {
+        width: 100%;
     }
 }
 
@@ -1026,6 +1038,10 @@ h4 {
     .blocsapp-device-iphone5 img {
         width: 180px;
         height: 320px;
+    }
+
+    .img-responsive {
+        width: 100%;
     }
 }
 
