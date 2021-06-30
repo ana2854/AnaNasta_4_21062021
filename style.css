@@ -681,6 +681,12 @@ p {
     font-size: 11px;
 }
 
+.lieu {
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+
 .tight-width-whitespace {
     width: auto;
     height: auto;
