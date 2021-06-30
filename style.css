@@ -6,6 +6,10 @@ body {
     
 }
 
+p {
+    color: black;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -98,8 +102,10 @@ a:hover {
     background-attachment: fixed;
 }
 
+/*boutons reseaux sociaux*/
+
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, 0.7);
 }
 
 .d-bloc button:hover {
@@ -131,8 +137,9 @@ a:hover {
 .d-bloc h4 a,
 .d-bloc h5 a,
 .d-bloc h6 a,
-.d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+.d-bloc p a
+ {
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .d-bloc .a-btn:hover,
@@ -651,7 +658,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #080202!important;
 }
 
 .container {
@@ -678,9 +685,10 @@ a {
 
 p {
     font-size: 11px;
+
 }
 
-.lieu {
+.d-bloc .lieu{
     font-size: large;
     color: black;
     font-weight: bold;
