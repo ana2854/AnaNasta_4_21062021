@@ -743,16 +743,18 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: auto;
-    height: auto;
+    width: 100%;
+   
 }
 
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
-    width: auto;
-    height: auto;
+    width: 100%;
+   
 }
+
+
 
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
@@ -773,7 +775,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #fdfdff;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
@@ -785,12 +787,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: rgb(3, 43, 3);
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #065006!important;
     color: #FFFFFF!important;
 }
 
