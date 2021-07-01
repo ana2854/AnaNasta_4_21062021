@@ -679,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 17px;
 
 }
 
@@ -797,11 +797,12 @@ h4 {
 .tc-white {
     color: #ffffff!important;
     font-weight: bold;
+    text-align: center;
 }
 
 .black-font {
     color: rgb(46, 44, 44) !important;
-    text-align: center;
+    
 }
 
 /*boutons contact*/
