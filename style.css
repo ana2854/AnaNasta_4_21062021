@@ -764,8 +764,12 @@ h4 {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
 
+/*background paragraphe*/
+
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color:  rgb(46, 48, 46);
+    opacity: 0.8;
+    border-radius: 30px;
     padding: 40px 40px 40px 40px;
 }
 
