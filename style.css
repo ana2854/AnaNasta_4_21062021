@@ -853,7 +853,7 @@ h4 {
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere-min.jpeg");
-    filter: saturate(90%) brightness(105%);
+    filter: saturate(80%) brightness(105%);
    
 }
 
