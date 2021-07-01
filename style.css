@@ -86,6 +86,7 @@ a:hover {
 
 
 
+
 .b-parallax {
     background-attachment: fixed;
 }
@@ -112,6 +113,8 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
+/*reseaux sociaux icones*/
+
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
@@ -127,7 +130,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a
  {
-    color: rgba(255, 255, 255, 0.6);
+    color:rgb(39, 39, 39);
 }
 
 .d-bloc .a-btn:hover,
@@ -144,7 +147,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(78, 77, 77);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
