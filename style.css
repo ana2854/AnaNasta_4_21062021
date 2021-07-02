@@ -797,8 +797,14 @@ h4 {
 .tc-white {
     color: #ffffff!important;
     font-weight: bold;
-    text-align: center;
+    
 }
+/*
+.col-sm-12 {
+    text-align: center;
+ */  
+
+/*page2*/
 
 .black-font {
     color: rgb(46, 44, 44) !important;
