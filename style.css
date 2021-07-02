@@ -945,6 +945,7 @@ h4 {
 
     .img-responsive {
         width: 100%;
+        height: auto;
     }
 }
 
@@ -1088,6 +1089,7 @@ h4 {
 
     .img-responsive {
         width: 100%;
+        height: auto;
     }
 }
 
