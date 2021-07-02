@@ -752,6 +752,7 @@ h4 {
 .portfolio-thumb {
     margin-bottom: 24px;
     width: 100%;
+    height: auto;
    
 }
 
@@ -759,6 +760,7 @@ h4 {
     margin-bottom: 44px;
     margin-top: 50px;
     width: 100%;
+    height: auto;
    
 }
 
