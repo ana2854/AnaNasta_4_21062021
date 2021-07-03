@@ -288,9 +288,25 @@ a:hover {
     font-size: 32px;
 }
 
+.header {
+    width: 100%;
+}
+
 .navbar {
     margin-bottom: 0;
     z-index: 1;
+    width: 100%;
+
+
+    border: 8px solid red;
+}
+
+.nav>li>a {
+position: relative;
+display: block;
+padding: 10px 15px;
+text-decoration: none;
+
 }
 
 .navbar-brand {
@@ -300,6 +316,10 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+}
+
+.nav {
+    list-style: none;
 }
 
 .navbar-brand img {
@@ -321,6 +341,16 @@ a:hover {
     margin-right: -16px;
     float: right;
     z-index: 1;
+
+
+    border: 8px solid green;
+}
+
+.navbar-nav>li>a {
+padding-top: 10px;
+padding-bottom: 10px;
+line-height: 20px;
+border: 8px solid black;
 }
 
 .nav > li {
@@ -683,6 +713,8 @@ p {
 
 }
 
+
+
 .d-bloc .lieu{
     font-size: large;
     color: black;
@@ -980,6 +1012,9 @@ h4 {
         transform: none;
         -webkit-transform: none;
         -ms-transform: none;
+
+
+        border:8px solid black;
     }
     .nav > li {
         margin-top: 0;
@@ -1014,10 +1049,13 @@ h4 {
         right: -1px;
     }
     .navbar-collapse {
-        padding: 0;
+        padding-right: 15px;
+        padding-left: 15px;
         overflow-x: hidden;
         -webkit-box-shadow: none;
         box-shadow: none;
+
+        border: 8px solid black;
     }
     .navbar-brand img {
         max-height: 40px;
