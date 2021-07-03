@@ -40,8 +40,6 @@ a:hover {
     -o-background-size: cover;
     background-size: cover;
     position: relative;
-
-    border: 1px solid rgb(234, 0, 255);
 }
 
 .bloc .container {
@@ -52,8 +50,6 @@ a:hover {
 .bloc-lg {
     padding: 100px 50px;
 
-
-    border: 1px solid gray;
 }
 
 .bloc-md {
@@ -299,9 +295,6 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
   
-
-
-    border: 8px solid red;
 }
 
 .nav>li>a {
@@ -350,7 +343,6 @@ img {
     z-index: 1;
 
 
-    border: 1px solid green;
 }
 
 .navbar-nav>li>a {
@@ -358,7 +350,6 @@ padding-top: 10px;
 padding-bottom: 10px;
 line-height: 20px;
 
-border: 8px solid black;
 }
 
 .nav > li {
@@ -380,7 +371,7 @@ border: 8px solid black;
     margin: 10px 10px 0 0;
     border: 0px;
 
-    border: 1px solid black;
+   
 }
 
 .navbar-toggle:hover {
@@ -993,6 +984,10 @@ h4 {
         padding-right: 0;
     }
 
+    .navbar .nav {
+        margin-right: 0!important;
+    }
+
     .img-responsive {
         width: 100%;
         height: auto;
@@ -1038,8 +1033,6 @@ h4 {
         -ms-transform: none;
 
 
-        border:1px solid black;
-
     }
     .nav > li {
         margin-top: 0;
@@ -1080,7 +1073,6 @@ h4 {
         -webkit-box-shadow: none;
         box-shadow: none;
 
-        border: 1px solid black;
     }
     .navbar-brand img {
         max-height: 40px;
