@@ -4,6 +4,7 @@ body {
     background: #FFF;
     overflow-x: hidden;
     
+    
 }
 
 p {
@@ -135,7 +136,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a
  {
-    color:rgb(39, 39, 39);
+    color:rgb(39, 39, 39) !important;
 }
 
 .d-bloc .a-btn:hover,
@@ -751,6 +752,15 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: block;
+    
+}
+
+.nomReseau {
+    color:rgb(43, 42, 42);
+    display: block;
+    font-size: 14px;
+    margin-top:10px;
 }
 
 h2 {
