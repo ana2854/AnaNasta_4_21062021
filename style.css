@@ -308,7 +308,7 @@ text-decoration: none;
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
-    font-size: 25px;
+  
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
@@ -1068,7 +1068,7 @@ h4 {
     }
     .navbar-collapse {
         
-        padding-left: 15px;
+       
         overflow-x: hidden;
         -webkit-box-shadow: none;
         box-shadow: none;
