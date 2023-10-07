@@ -1,7 +1,6 @@
 # Projet La Chouette Agence
 
-
-![maquette version desktop](maquette/version-desktop.png)
+ [Visuel du projet](doc/visuel-p4.pdf)
 
 
 ### Description
