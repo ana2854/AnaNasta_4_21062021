@@ -1,19 +1,18 @@
 # Projet La Chouette Agence
 
- [Visuel du projet](doc/visuel-p4.pdf)
-
+[Visuel du projet](doc/visuel-p4.pdf)
 
 ### Description
 
-La chouette agence, grande agence de web design basée à Lyon souhaiterait améliorer le référencement de son site sur les moteurs de recherches.
+Projet centré sur l'optimisation du SEO et de l'accessibilité pour "La Chouette Agence", une agence de web design. L'objectif est d'accroître sa visibilité en ligne tout en garantissant une expérience utilisateur fluide adaptée à toutes les tailles d'écran.
 
-### Documentation technique
+### Documentation Technique
 
-Pour plus de détails sur les spécifications techniques et les contraintes du projet, [cliquez ici](doc/doc-p4.pdf).
+Pour plus d'informations sur les spécifications et les contraintes du projet, [cliquez ici](doc/doc-p4.pdf).
 
 ### Technologies
 
-HTML,CSS, Design reponsive
+HTML, CSS, Design responsive
 
 ### Installation
 
